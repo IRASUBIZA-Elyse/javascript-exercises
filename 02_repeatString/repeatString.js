@@ -9,8 +9,8 @@ const repeatString = function (word, times) {
     }
     return string;
   };
-  let times = 3;
-  let word = 'hey';
+  let times = 10;
+  let word = '';
   console.log(repeatString);
 // Do not edit below this line
 module.exports = repeatString;
